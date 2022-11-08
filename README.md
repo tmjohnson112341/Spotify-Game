@@ -7,8 +7,6 @@ Project Prompt:
 
 - Built with React.js, JSX, HTML, CSS, Expressjs, Node.js, Git, Vercel, and Google Fonts
 
-- This full stack application has built in unit, integration, and e2e tests. Each test is split up by user story. To install this application, you must:
-
 ## Links
 
 [Deployed Version](https://spotify-game.vercel.app/)
