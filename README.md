@@ -36,7 +36,7 @@ The Homepage has the following features:
 - If you guess correctly you see the "You Win!" pop up.
 - You can either replay with the current parameters or go back to home to play with new parameters.
 
-![Win-Modal](spotifyAssets/Spotify Win.PNG)
+![Win-Modal](spotifyAssets/SpotifyWin.PNG)
 
 ### Incorrect Guess:
 
